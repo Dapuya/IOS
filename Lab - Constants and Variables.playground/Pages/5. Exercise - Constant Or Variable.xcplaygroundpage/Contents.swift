@@ -10,9 +10,12 @@
  
  For each of the metrics above, declare either a constant or a variable and assign it a value corresponding to a hypothetical post. Be sure to use proper naming conventions.
  */
-
-
-
-
-
+var likes : Int
+print("Number of likes can chacnge all the time, that's why I choose to declare likes as a variable")
+var comments : Int
+print("Same as with likes")
+let year: Int
+let month: Int
+let day: Int
+print("Year, month and day are permanent values, they cannot be changed")
 //: [Previous](@previous)  |  page 5 of 10  |  [Next: App Exercise - Fitness Tracker: Constant or Variable?](@next)
