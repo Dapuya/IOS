@@ -15,12 +15,12 @@ class Spaceship{
     
     func moveLeft(){
         position -= 1;
-        print(position)
+//        print(position)
     }
     
     func moveRight(){
         position += 1;
-        print(position)
+//        print(position)
 
     }
     
